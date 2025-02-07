@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+.input
+{
+    @apply mt-4 flex items-center border border-gray-400 px-4 py-1 rounded-xl gap-4 w-7/10
+}
+
+.navbarBtn
+{
+    @apply border border-gray-600 text-gray-800 rounded-full px-4 flex items-center gap-2 hover:bg-gray-200
+}
